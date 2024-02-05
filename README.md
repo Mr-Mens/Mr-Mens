@@ -22,4 +22,6 @@ You can click the Preview link to take a look at your changes.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
-
+![Tableau](https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=flat&logo=powerbi&logoColor=white)
+![AdobePhotoshop](https://img.shields.io/badge/-adobephotoshop-#31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
