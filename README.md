@@ -13,4 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 ### Programming Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-3776AB?style=flat&logo=sql&logoColor=white)
 
