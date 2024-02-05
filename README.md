@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Other
 ![apachespark](https://img.shields.io/badge/-apachespark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+
 
