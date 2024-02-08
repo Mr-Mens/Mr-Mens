@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Mr-Mens
+- 👋 Hi, I’m @Mr-Mens (Philip Mensah)
 - 👀 I’m interested in Data Science, Artificial Intelligence and Project Management
-- 🌱 I’m currently undertaking an MSc in AI and Data Science
-- 💞️ I’m looking to collaborate on data science/analysis and python projects.
+- 🌱 I’m currently undertaking a MSc in AI and Data Science
+- 💞️ I’m looking to collaborate on data science/analysis, AI / ML and python projects.
 - 📫 You can reach me through email: philipmensah@me.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I self taught python which got me into the tech sector
+- ⚡ Fun fact: I'm a Python wizard by self-education! 🐍✨"
 
 <!---
 Mr-Mens/Mr-Mens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
