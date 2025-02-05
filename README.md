@@ -30,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 ![Tableau](https://img.shields.io/badge/-tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Powerbi](https://img.shields.io/badge/-powerbi-F2C811?style=flat&logo=powerbi&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/-adobephotoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-3268C0?style=flat&logo=google&logoColor=white)
