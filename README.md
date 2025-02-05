@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mr-Mens (Philip Mensah)
-- 👀 I’m interested in Data Science, Artificial Intelligence and Software Engineering.
+- 👋 Hi, I’m Philip Mensah
+- 👀 I’m into Data Science, Artificial Intelligence and Software Engineering.
 - 🌱 I’m have an MSc in AI and Data Science
 - 💞️ I’m looking to collaborate on data science/analysis, AI / ML and Software Engineering projects.
-- 📫 My email: philipmensah@me.com
+- 📫 My contact: philipmensah@me.com
 - 😄 Pronouns: He/Him
 
 <!---
