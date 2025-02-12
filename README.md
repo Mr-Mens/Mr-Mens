@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Philip Mensah
-- 👀 I’m into Data Science, Artificial Intelligence and Software Engineering.
-- 🌱 I have an MSc in AI and Data Science
-- 💞️ I’m looking to collaborate on data science/analysis, AI / ML and Software Engineering projects.
-- 📫 My contact: philipmensah@me.com
-- 😄 Pronouns: He/Him
+I’m a Data Scientist and Software Engineer with a passion for AI, machine learning, and building smart, scalable applications. With an MSc in AI & Data Science, I’ve spent my career exploring how data and AI can drive meaningful impact—whether it’s through developing machine learning models, optimising data pipelines, or creating full-stack AI-powered applications. I enjoy solving complex problems, working on exciting AI/ML projects, and collaborating with others who love tech as much as I do. If you’re working on something interesting in data science, AI, or software engineering, let’s connect! 
+
+📫 Reach me at: philipmensah@me.com 
 
 <!---
 Mr-Mens/Mr-Mens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 ### Programming Language
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Matlab](https://img.shields.io/badge/-Matlab-396CB2?style=flat&logo=matlab&logoColor=white)
 
